@@ -2,7 +2,7 @@
 #include <iostream>
 #include <conio.h>
 using namespace std;
-void main1() {
+void main() {
 
   int number=0;
 
@@ -12,7 +12,7 @@ void main1() {
 
     if (number<1 || number>4)
 	{
-		cout << "Invalid input. Please enter a number between 1 and 4.\n";
+	 cout << "Invalid input. Please enter a number between 1 and 4.\n";
 	}
     else if (number == 1) {
       cout << "You are a member of Hufflepuff\n";
