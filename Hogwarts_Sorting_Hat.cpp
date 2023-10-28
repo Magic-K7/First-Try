@@ -4,7 +4,7 @@
 using namespace std;
 void main() {
 
-  int number=0;
+  int number;
 
   cout << "\nI am the Hogwarts Sorting Hat.\n\n";
   cout << "Enter a number from 1 to 4 to find out which House you belong to.\n\n";
